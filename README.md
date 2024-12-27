@@ -22,6 +22,8 @@ Start the Application
 
 Load tasks from the saved file (if available) or start with an empty task list.
 Create and Manage Tasks
+![image](https://github.com/user-attachments/assets/9cd71597-86d7-49e7-ab86-7dcce5bff6a8)
+
 
 Add, edit, mark as done, or delete tasks as needed.
 Exit and Save
